@@ -23,4 +23,4 @@ console.log(arr);
 // a = 8;
 
 // throws an error
-// const x; 
+// const x; coding-tutorial/javascript/introduction/constants.js
